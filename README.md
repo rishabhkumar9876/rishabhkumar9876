@@ -29,7 +29,7 @@
 <a href="mailto:rishabh8960428090@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="www.linkedin.com/in/rishabhkumar9876" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar9876&show_icons=true&locale=en" alt="rishabhkumar9876" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumar9876&" alt="rishabhkumar9876" /></p>
 
